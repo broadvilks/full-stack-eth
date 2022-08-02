@@ -1,8 +1,6 @@
 //SPDX-License-Identifier: Unlicense
 pragma solidity ^0.8.3;
 
-import "hardhat/console.sol";
-
 contract Token {
   string public name = "Jared Borders Token";
   string public symbol = "JBT";
